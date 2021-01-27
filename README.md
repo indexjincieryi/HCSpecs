@@ -1,0 +1,2 @@
+# HCSpecs
+save specs
